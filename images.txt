@@ -1,1 +1,1 @@
-homeassistant/home-assistant
+hacs1.34.0
