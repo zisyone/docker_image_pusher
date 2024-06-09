@@ -1,1 +1,1 @@
-hacs
+home-assistant/home-assistant:stable
