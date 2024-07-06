@@ -1,2 +1,2 @@
-homeassistant/armv7-homeassistant:2024.8.0.dev202407010223
-homeassistant/armv7-addon-letsencrypt
+xiaoyaliu/alist
+
